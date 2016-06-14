@@ -1,6 +1,8 @@
 # Ecommerce-site
 To simulate an e-commerce site, from the layout to the dynamic after some tests, there is still need to continue to improve.
 
+**Result:**
+ ![image](https://github.com/Lemon23/Ecommerce-site/raw/master/pic/pic1.jpeg)
 
 In this exercise, the first time I used the `jQuery`，very confused at the beginning. After writing, I basically master grammar. Among them, also adopted the initialization style of Taobao net.
 
