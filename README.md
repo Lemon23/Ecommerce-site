@@ -18,9 +18,12 @@ Explain in detail into blocks  > > >
 ###Advertising scroll:
   Although before writing picture carousel function, but this time try to use jQuery to write, still a bit of a headache.
   
-`function a(x){`
-		`$("#ad a").attr("href",newhref).find("img").eq(x).stop(true, true).fadeIn().siblings().fadeOut();`
-		`$("#stu a").eq(x).addClass("selected").siblings().removeClass("selected");`
-`}`
+```
+function a(x){
+	$("#ad a").attr("href",newhref).find("img").eq(x).stop(true, true).fadeIn().siblings().fadeOut();
+	$("#stu a").eq(x).addClass("selected").siblings().removeClass("selected");
+}
+
+```
 
 After you can add more humanized mouse events. 
